@@ -8,5 +8,12 @@
     <artifactId>LittleTools2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
+    <dependencies>
+        <dependency>
+            <groupId>LV02</groupId>
+            <artifactId>cita-sdk</artifactId>
+            <version>0.15</version>
+        </dependency>
+    </dependencies>
 
 </project>
